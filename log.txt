@@ -1,0 +1,12 @@
+$ git log
+commit e5d9198cce2edd2d6bec5a230505e87ac81999b9 (HEAD -> logging, origin/master, master)
+Author: Kire Arsovski <kiree.arsvoski@gmail.com>
+Date:   Fri Mar 16 15:58:31 2018 +0100
+
+    modify l1.txt
+
+commit 605319a89a1c2ac46a486824671dd7d5612416dc
+Author: unknown <arsovski.kire@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:51:07 2018 +0100
+
+    Instakll commit
