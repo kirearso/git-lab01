@@ -1,0 +1,16 @@
+1.Instalirano veke na kompjuterite
+2.mkdir lab1 -- cd lab1 -- git init $ git config --global user.name "Kire Arsovski" ---$ git config --global user.email "kiree.arsvoski@gmail.com"
+3.notepad l1.txt vo folderot lab1
+4.notepad l1.txt otvoreno e folder i vneseni se podatocite indeks ime prezime
+5.git status -- git add --all --git commit -m "Initial commit"
+6.dodadena e nasokata 
+7.git add --all -- git commit -m "modify l1.txt"
+8.kreiran git-lab01
+9.git remote add origin https://github.com/kirearso/git-lab01.git
+10.git push -u origin master
+11.$ git reset --hard
+12.$ git branch logging ----$ git checkout logging
+13.$ notepad log.txt ---zapisan izlezot od git log
+14.git add --all --- git commit -m "Create log.txt" -- git push origin logging
+15.git checkout master---- git merge logging ---$ git push origin master
+16.git checkout -b allcomands proverka git branch
